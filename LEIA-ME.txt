@@ -1,0 +1,42 @@
+MANDINGA - versao para PC
+=========================
+
+COMO JOGAR
+1. Descomprime a pasta.
+2. Abre o ficheiro index.html no Chrome, Edge ou Firefox (duplo clique).
+3. Clica em "Nova aventura".
+
+Precisa de internet na primeira vez, para carregar o motor 3D (Three.js) e as letras.
+
+JOGAR SEM INTERNET (opcional)
+Descarrega este ficheiro e guarda-o na mesma pasta do index.html, com o nome three.min.js:
+  https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js
+O jogo usa-o automaticamente se estiver la.
+
+CONTROLOS (teclado e rato)
+  W A S D   andar              Alt / Shift   correr
+  Ctrl      agachar            Espaco        saltar
+  Rato esquerdo atacar         Rato direito  defender
+  R         preparar/guardar arma
+  E         interagir          Q             favoritos
+  Z         bola de fogo       Tab           menu
+  I         inventario         J             diario
+  M         mapa               Esc           pausar
+  H         pocao de vida      G             ecra inteiro
+  Setas     olhar (alternativa)
+
+No menu Opcoes podes ajustar o tamanho do texto, contraste, animacoes e sensibilidade da camara.
+No inventario, poções de resistencia ao fogo, gelo e magia podem ser usadas como os outros consumiveis.
+Ao abrir um bau ou revistar um cadaver, escolhe o que levar e deixa o restante no recipiente.
+
+NOTAS
+- O jogo guarda o progresso no proprio navegador (guarda automaticamente e no menu Opcoes).
+- Se o rato nao ficar preso ao ecra, clica no ecra do jogo.
+- Se estiver lento, usa o Chrome e fecha outros separadores pesados.
+NOVIDADES
+- Cria a personagem escolhendo uma das tres racas (Mbiri, Bantu ou Matxituka) e uma classe.
+- Usa o separador Desenvolvimento para desbloquear habilidades por nivel.
+- Encontra o Ferreiro Kito na aldeia e comerciantes nomadas nas duas regioes.
+- Baús e cadaveres abrem uma janela de saque; escolhe os itens que queres levar.
+- A aldeia tem casas de adobe, animais domesticos e criancas entre os habitantes.
+- Poções de resistencia ao fogo, gelo e magia duram 30 segundos.
